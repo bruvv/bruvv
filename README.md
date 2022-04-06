@@ -42,4 +42,4 @@ My profile mainly contains contributions to different kind of interesting projec
 <br>
 
 ![Bruvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruvv&count_private=true&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvv&count_private=true&hide=c,perl,tex,m4,c++,assembly,makefile&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvv&count_private=true&hide=c,perl,tex,m4,c++,assembly,makefile&layout=compact)
