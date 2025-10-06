@@ -13,7 +13,7 @@
 My profile mainly contains contributions to different kind of interesting projects.
 <!-- to be added more and if you are reading this than I like you and salute you, you are doing good investigation work! --> 
 ---
-
+<!--
 #### 🌠 My knowledge
 <p align="center">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -40,6 +40,7 @@ My profile mainly contains contributions to different kind of interesting projec
 </p>
 
 <br>
+-->
 
 ![Bruvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruvv&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvv&count_private=true&hide=c,yacc,perl,tex,m4,C++,assembly,makefile&layout=compact)
